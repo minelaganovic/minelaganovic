@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **projects at the faculty.**
 
-- 🌱 I’m currently learning **Java,Python.**
+- 🌱 I’m currently learning **Java, Python.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/minelaganovic](https://github.com/minelaganovic)
 
