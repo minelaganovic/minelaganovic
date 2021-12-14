@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/minelaganovic](https://github.com/minelaganovic)
 
-- ⚡ Fun fact **I like to draw, designing, making and learning programming.
+- ⚡ I like to draw, designing, making and learning programming.
 - ⚡ I like the design of the little details.**
 
 <h3 align="left">Languages and Tools:</h3>
