@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minelaganovic&label=Profile%20views&color=0e75b6&style=flat" alt="minelaganovic" /> </p>
 
-- 🔭 I’m currently working on **projects at the faculty.**
+- 👨‍💻 I’m currently working on **projects at the faculty.**
 
 - 🌱 I’m currently learning **Java, Python.**
 
-- 👨‍💻 How to reach me: minelag556@gmail.com
+- ⚡ How to reach me: minelag556@gmail.com
 
 - ⚡ I like to draw, designing, making and learning programming.
 - ⚡ I like the design of the little details.
