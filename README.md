@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Python.**
 
-- ⚡ How to reach me: minelag556@gmail.com
+- 📫 How to reach me: minelag556@gmail.com
 
 - ⚡ I like to draw, designing, making and learning programming.
 - ⚡ I like the design of the little details.
