@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on **projects at the faculty.**
 
-- 🌱 I’m currently learning **Java, Python.**
+- 🌱 I’m currently learning **JAVA,PHP.**
 
 - 📫 How to reach me: minelag556@gmail.com
 
