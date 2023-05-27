@@ -55,7 +55,7 @@
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me: </h2>
 <p>
   <a href="https://www.linkedin.com/in/minela-ganovic-1a2b19209"><img src="https://img.shields.io/badge/linkedin-6ba304.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-   <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-     <a href="https://github.com/minelaganovic"><img src="https://img.shields.io/badge/github-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+   <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-6ba304.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+     <a href="https://github.com/minelaganovic"><img src="https://img.shields.io/badge/github-6ba304.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
 
