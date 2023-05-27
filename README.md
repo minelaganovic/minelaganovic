@@ -1,9 +1,7 @@
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
 <br/>
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+programming;Programming;the little details&center=true&width=380&height=45"></a>
-</p>
+
 
 - 👨‍💻 I like to designing, making and learning programming.
 - ⚡ I like the programming the little details.
