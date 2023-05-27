@@ -51,7 +51,6 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
 </p>
-<br>
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me: </h2>
 <p>
   <a href="https://www.linkedin.com/in/minela-ganovic-1a2b19209"><img src="https://img.shields.io/badge/linkedin-6ba304.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
