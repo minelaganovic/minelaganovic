@@ -45,7 +45,6 @@
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-2c292d.svg?style=for-the-badge&logo=android-studio&logoColor=ffffff"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-2c292d.svg?style=for-the-badge&logo=Jupyter&logoColor=ffffff"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-2c292d?style=for-the-badge&logo=postman&logoColor=ffffff"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-2c292d?style=for-the-badge&logo=stack-overflow&logoColor=ffffff"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-2c292d.svg?style=for-the-badge&logo=git&logoColor=ffffff"></a>
 </a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-2c292d.svg?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff"></a>
