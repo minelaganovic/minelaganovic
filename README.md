@@ -1,5 +1,11 @@
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
+<br>
+<p align="center">
+<img alt="GIF" src="" />
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=26&color=2515C5&background=47FFF700&center=true&lines=I'm+a+Full+Stack+Developer..)](https://git.io/typing-svg)
+ 
+<p/>
 
 <h2> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80"> Connect with me </h2>
 
