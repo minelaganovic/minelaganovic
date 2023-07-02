@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
 <br/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=23A607&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBI'm+a+software+engineering+student!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+always+learning+new+things." alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=23A607&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBI'm+a+software+engineering+student!;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+I'm+always+learning+new+things." alt="Typing SVG" /></a>
 <br>	
 <div><h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" padding-top="20px" height="30px"> My skills:</h2></img></div>
 
