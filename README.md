@@ -27,7 +27,7 @@
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-2c292d?style=for-the-badge&logo=django&logoColor=ffffff"></a>
-
+    <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.net-2c292d?style=for-the-badge&logo=.net&logoColor=ffffff"></a>
 </p>
 
 ##### Databases and Cloud Hosting
