@@ -24,7 +24,7 @@
 <p>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-2c292d?style=for-the-badge&logo=vue.js&logoColor=ffffff"></a>
     <a href="#"><img alt="angular.ts" src="https://img.shields.io/badge/TypeScript-2c292d?style=for-the-badge&logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="angular.js" src="https://img.shields.io/badge/AngularJS-2c292?style=for-the-badge&logo=angularjs&logoColor=white"></a>
+    <a href="#"><img alt="angular.js" src="https://img.shields.io/badge/AngularJS-2c292d?style=for-the-badge&logo=angularjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
