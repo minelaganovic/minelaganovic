@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
 <br/>
-👨‍💻 <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' font-family='Fira Code' font-weight='500' pause='1000' color='%2323A607' width='435' height='auto' xmlns:xlink='http://www.w3.org/1999/xlink'%3E%3Ctext x='10' y='40' font-size='30' fill='%2323A607'%3E👨‍💻 I'm a software engineering student!%3C/text%3E%3Ctext x='10' y='80' font-size='30' fill='%2323A607'%3E👨‍💻 I'm always learning new things.%3C/text%3E%3C/svg%3E" alt="Typing SVG" />
+## 👨‍💻 I'm a software engineering student!
 
 <br>	
 <div><h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" padding-top="20px" height="30px"> My skills:</h2></img></div>
