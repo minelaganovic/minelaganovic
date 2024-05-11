@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
-<h3 align="center">I'm a software engineering student !</h3>
+<h3 align="center">I'm a software engineer!</h3>
 
 <br>	
 <div><h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" padding-top="20px" height="30px"> My skills:</h2></img></div>
@@ -38,6 +38,7 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-2c292d.svg?style=for-the-badge&logo=github&logoColor=ffffff"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
+    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-2c292d?style=for-the-badge&logo=mongodb&logoColor=ffffff"></a>
     <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-2c292d?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff"></a>
 </p>
 
