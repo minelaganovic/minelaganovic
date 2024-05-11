@@ -28,12 +28,14 @@
     <a href="#"><img alt="" src="https://img.shields.io/badge/.net-2c292d?style=for-the-badge&logo=.net&logoColor=ffffff"></a>
      <a href="#"><img alt="" src="https://img.shields.io/badge/swiftUI-2c292d?style=for-the-badge&logo=swiftUI&logoColor=ffffff"></a>
 </p>
+
 ##### Server Environment
 <p>
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anode"><img alt="Node" src="https://img.shields.io/badge/Node-2c292d.svg?style=for-the-badge&logo=node&logoColor=ffffff"></a>
+<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/NodeJS-2c292d.svg?style=for-the-badge&logo=nodejs&logoColor=ffffff"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspring"><img alt="Spring" src="https://img.shields.io/badge/Spring-2c292d.svg?style=for-the-badge&logo=spring&logoColor=ffffff"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aexpress"><img alt="Express" src="https://img.shields.io/badge/Express-2c292d.svg?style=for-the-badge&logo=express&logoColor=ffffff"></a>
 </p>
+
 ##### Databases and Cloud Hosting
 
 <p>
