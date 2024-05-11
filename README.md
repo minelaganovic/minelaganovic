@@ -16,7 +16,6 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-2c292d.svg?style=for-the-badge&logo=node.js&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d.svg?style=for-the-badge&logo=php&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ACSharp"><img alt="CSharp" src="https://img.shields.io/badge/CSharp-2c292d.svg?style=for-the-badge&logo=csharp&logoColor=ffffff"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-2c292d.svg?style=for-the-badge&logo=laravel&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
 
 ##### Frameworks and Libraries
@@ -27,6 +26,7 @@
     <a href="#"><img alt="angular.js" src="https://img.shields.io/badge/AngularJS-2c292d?style=for-the-badge&logo=angularjs&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-2c292d.svg?style=for-the-badge&logo=laravel&logoColor=ffffff"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-2c292d?style=for-the-badge&logo=django&logoColor=ffffff"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/.net-2c292d?style=for-the-badge&logo=.net&logoColor=ffffff"></a>
