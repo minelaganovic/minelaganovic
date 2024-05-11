@@ -5,7 +5,6 @@
 <br>	
 <div><h2 align="left"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" padding-top="20px" height="30px"> My skills:</h2></img></div>
 
-
 ##### Programming Languages
 
 <p>
@@ -14,6 +13,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-2c292d.svg?style=for-the-badge&logo=php&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3ACSharp"><img alt="CSharp" src="https://img.shields.io/badge/CSharp-2c292d.svg?style=for-the-badge&logo=csharp&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-2c292d.svg?style=for-the-badge&logo=python&logoColor=ffffff"></a>
+</p>
 
 ##### Frameworks and Libraries
 
@@ -23,17 +23,18 @@
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-2c292d?style=for-the-badge&logo=react&logoColor=ffffff"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Alaravel"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-2c292d.svg?style=for-the-badge&logo=laravel&logoColor=ffffff"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-2c292d?style=for-the-badge&logo=bootstrap&logoColor=ffffff"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-2c292d?style=for-the-badge&logo=django&logoColor=ffffff"></a>
-    <a href="#"><img alt="" src="https://img.shields.io/badge/.net-2c292d?style=for-the-badge&logo=.net&logoColor=ffffff"></a>
-     <a href="#"><img alt="" src="https://img.shields.io/badge/swiftUI-2c292d?style=for-the-badge&logo=swiftUI&logoColor=ffffff"></a>
 </p>
 
 ##### Backend Development
 <p>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Anode"><img alt="Node" src="https://img.shields.io/badge/Node-2c292d.svg?style=for-the-badge&logo=node&logoColor=ffffff"></a>
 <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aspring"><img alt="Spring" src="https://img.shields.io/badge/Spring-2c292d.svg?style=for-the-badge&logo=spring&logoColor=ffffff"></a>
-<a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aexpress"><img alt="Express" src="https://img.shields.io/badge/Express-2c292d.svg?style=for-the-badge&logo=express&logoColor=ffffff"></a>
+</p>
+
+##### Desktop Applications
+<p>
+<a href="#"><img alt="WPF" src="https://img.shields.io/badge/WPF-2c292d.svg?style=for-the-badge&logo=wpf&logoColor=ffffff"></a>
+<a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-2c292d.svg?style=for-the-badge&logo=c-sharp&logoColor=ffffff"></a>
 </p>
 
 ##### Databases and Cloud Hosting
@@ -62,4 +63,3 @@
    <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
      <a href="https://github.com/minelaganovic"><img src="https://img.shields.io/badge/github-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
-
