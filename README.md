@@ -39,12 +39,6 @@
             <li>JavaScript</li>
             <li>PHP</li>
         </ul>
-        <h4>Software and Tools:</h4>
-        <ul>
-            <li>Android Studio</li>
-            <li>Jupyter</li>
-            <li>Postman</li>
-        </ul>
     </td>
   </tr>
   <tr>
@@ -77,7 +71,15 @@
             <li>Microsoft Azure</li>
         </ul>
     </td>
-        <td rowspan="1"></td>
+        <td> <h3>Other Tools</h3>
+        <h4>Software and Tools:</h4>
+        <ul>
+            <li>Android Studio</li>
+            <li>Jupyter</li>
+            <li>Postman</li>
+        </ul>
+          
+</td>
   </tr>
 </table>
 
