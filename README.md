@@ -37,8 +37,16 @@
         <h3>Desktop Applications</h3>
         <ul>
             <li>WPF</li>
-            <li>C#</li>
-            <li>.NET</li>
+            <li>WinForms</li>
+            <li>.NET Core</li>
+        </ul>
+    </td>
+    <td valign="top">
+        <h3>Web Development</h3>
+        <ul>
+            <li>ASP.NET Core</li>
+            <li>Blazor</li>
+            <li>Razor Pages</li>
         </ul>
     </td>
     <td valign="top">
@@ -54,6 +62,8 @@
             <li>Microsoft Azure</li>
         </ul>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
         <h3>Other Tools and Technologies</h3>
         <h4>Programming Languages:</h4>
