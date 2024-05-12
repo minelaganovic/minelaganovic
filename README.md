@@ -31,7 +31,7 @@
             <li>Express</li>
         </ul>
     </td>
-    <td valign="top">
+    <td colspan="1" valign="top">
         <h3>Other Tools and Technologies</h3>
         <ul>
             <li><h4>Programming Languages:</h4></li>
@@ -75,7 +75,7 @@
             <li>Microsoft Azure</li>
         </ul>
     </td>
-    <td></td>
+    <td colspan="1"></td>
   </tr>
 </table>
 
