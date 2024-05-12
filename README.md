@@ -1,6 +1,3 @@
-U redu, evo ažurirane tabele koja obuhvata "Other Tools and Technologies" u 2 reda i raspoređuje ih u 4 kolone:
-
-```html
 <h2 align="center">Hi 👋, I'm Minela.</h2>
 
 <h3 align="center">I'm a software engineer!</h3>
@@ -88,6 +85,3 @@ U redu, evo ažurirane tabele koja obuhvata "Other Tools and Technologies" u 2 r
    <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
      <a href="https://github.com/minelaganovic"><img src="https://img.shields.io/badge/github-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
 </p>
-```
-
-Sada je "Other Tools and Technologies" podeljen na dva reda i nalazi se u četvrtoj koloni, kako ste tražili.
