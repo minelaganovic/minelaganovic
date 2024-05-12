@@ -2,8 +2,6 @@
 
 <h3 align="center">I'm a software engineer!</h3>
 
-<p align="center">I specialize in developing robust software solutions with a focus on clean code and efficient problem-solving.</p>
-
 <br>
 
 <h2 align="left">My Skills:</h2>
