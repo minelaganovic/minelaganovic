@@ -77,6 +77,7 @@
             <li>Microsoft Azure</li>
         </ul>
     </td>
+        <td rowspan="1"></td>
   </tr>
 </table>
 
