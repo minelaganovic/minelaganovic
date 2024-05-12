@@ -13,14 +13,13 @@
         <ul>
             <li>React Native</li>
             <li>SwiftUI</li>
-            <li>Android Studio</li>
         </ul>
     </td>
     <td valign="top">
         <h3>Frontend Development</h3>
         <ul>
             <li>Vue.js</li>
-            <li>AngularJS</li>
+            <li>Angular</li>
             <li>React</li>
         </ul>
     </td>
@@ -65,7 +64,7 @@
         </ul>
         <h4>Software and Tools:</h4>
         <ul>
-            <li>Adobe Suit</li>
+            <li>Android Studio</li>
             <li>Jupyter</li>
             <li>Postman</li>
         </ul>
