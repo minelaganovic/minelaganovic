@@ -31,6 +31,21 @@
             <li>Express</li>
         </ul>
     </td>
+    <td valign="top">
+        <h3>Other Tools and Technologies</h3>
+        <h4>Programming Languages:</h4>
+        <ul>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>PHP</li>
+        </ul>
+        <h4>Software and Tools:</h4>
+        <ul>
+            <li>Android Studio</li>
+            <li>Jupyter</li>
+            <li>Postman</li>
+        </ul>
+    </td>
   </tr>
   <tr>
     <td valign="top">
@@ -62,23 +77,7 @@
             <li>Microsoft Azure</li>
         </ul>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-        <h3>Other Tools and Technologies</h3>
-        <h4>Programming Languages:</h4>
-        <ul>
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>PHP</li>
-        </ul>
-        <h4>Software and Tools:</h4>
-        <ul>
-            <li>Android Studio</li>
-            <li>Jupyter</li>
-            <li>Postman</li>
-        </ul>
-    </td>
+    <td></td>
   </tr>
 </table>
 
