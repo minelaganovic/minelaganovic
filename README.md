@@ -32,7 +32,7 @@
         </ul>
     </td>
     <td colspan="1" valign="top">
-        <h3>Other Tools and Technologies</h3>
+        <h3>Other Technologies</h3>
         <h4>Programming Languages:</h4>
         <ul>
             <li>Java</li>
