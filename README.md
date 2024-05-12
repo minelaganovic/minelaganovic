@@ -33,12 +33,14 @@
     </td>
     <td colspan="1" valign="top">
         <h3>Other Tools and Technologies</h3>
+        <h4>Programming Languages:</h4>
         <ul>
-            <li><h4>Programming Languages:</h4></li>
             <li>Java</li>
             <li>JavaScript</li>
             <li>PHP</li>
-            <li><h4>Software and Tools:</h4></li>
+        </ul>
+        <h4>Software and Tools:</h4>
+        <ul>
             <li>Android Studio</li>
             <li>Jupyter</li>
             <li>Postman</li>
