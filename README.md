@@ -13,7 +13,7 @@
     <td valign="top">
         <h3>Mobile Development</h3>
         <ul>
-            <li><a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Areact">React Native</a></li>
+            <li>React Native</li>
             <li>SwiftUI</li>
             <li>Android Studio</li>
         </ul>
@@ -67,7 +67,7 @@
         </ul>
         <h4>Software and Tools:</h4>
         <ul>
-            <li>Adobe Suite</li>
+            <li>Adobe Suit</li>
             <li>Jupyter</li>
             <li>Postman</li>
         </ul>
