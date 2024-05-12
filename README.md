@@ -24,11 +24,8 @@
             <li>Vue.js</li>
             <li>AngularJS</li>
             <li>React</li>
-            <li>Bootstrap</li>
         </ul>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
         <h3>Backend Development</h3>
         <ul>
@@ -37,15 +34,16 @@
             <li>Express</li>
         </ul>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
         <h3>Desktop Applications</h3>
         <ul>
             <li>WPF</li>
             <li>C#</li>
+            <li>.NET</li>
         </ul>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
         <h3>Databases and Cloud Hosting</h3>
         <h4>Databases:</h4>
@@ -66,17 +64,12 @@
             <li>Java</li>
             <li>JavaScript</li>
             <li>PHP</li>
-            <li>C#</li>
-            <li>Python</li>
-            <li>.NET</li>
         </ul>
         <h4>Software and Tools:</h4>
         <ul>
             <li>Adobe Suite</li>
             <li>Jupyter</li>
             <li>Postman</li>
-            <li>Git</li>
-            <li>Visual Studio Code</li>
         </ul>
     </td>
   </tr>
