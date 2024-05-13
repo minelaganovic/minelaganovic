@@ -49,28 +49,13 @@
         </ul>
     </td>
     <td valign="top">
-        <h3>Web Development</h3>
-        <ul>
-            <li>ASP.NET Core</li>
-            <li>Blazor</li>
-            <li>Razor Pages</li>
-        </ul>
-    </td>
-    <td valign="top">
-        <h3>Databases and Cloud Hosting</h3>
-        <h4>Databases:</h4>
+        <h3>Databases</h3>
         <ul>
             <li>MySQL</li>
             <li>MongoDB</li>
         </ul>
-        <h4>Cloud Hosting:</h4>
-        <ul>
-            <li>GitHub Pages</li>
-            <li>Microsoft Azure</li>
-        </ul>
     </td>
-        <td> <h3>Other Tools</h3>
-        <h4>Software and Tools:</h4>
+        <td> <h3>Software and Tools:</h3>
         <ul>
             <li>Android Studio</li>
             <li>Jupyter</li>
