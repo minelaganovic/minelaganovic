@@ -29,15 +29,6 @@
             <li>Express</li>
         </ul>
     </td>
-    <td colspan="1" valign="top">
-        <h3>Other Technologies</h3>
-        <h4>Programming Languages:</h4>
-        <ul>
-            <li>Java</li>
-            <li>JavaScript</li>
-            <li>PHP</li>
-        </ul>
-    </td>
   </tr>
   <tr>
     <td valign="top">
@@ -55,14 +46,14 @@
             <li>MongoDB</li>
         </ul>
     </td>
-        <td> <h3>Software and Tools:</h3>
+        <td valign="top">
+        <h3>Other Technologies</h3>
         <ul>
-            <li>Android Studio</li>
-            <li>Jupyter</li>
-            <li>Postman</li>
+            <li>Java</li>
+            <li>JavaScript</li>
+            <li>PHP</li>
         </ul>
-          
-</td>
+    </td>
   </tr>
 </table>
 
