@@ -62,5 +62,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/minela-ganovic-1a2b19209"><img src="https://img.shields.io/badge/linkedin-507d2a.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
-     <a href="https://github.com/minelaganovic"><img src="https://img.shields.io/badge/github-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+   <a href="https://instagram.com/minelaganovic"><img src="[https://img.shields.io/badge/instagram-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff](https://www.instagram.com/__m_ganovic__?igsh=MTVuMGU1bmJ1YXVmeA==)"/></a>
 </p>
