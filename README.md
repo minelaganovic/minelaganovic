@@ -1,4 +1,4 @@
-<p align="center">👋 Greetings! Delighted to have you visit my GitHub profile! I'm Minela Ganovic, an enthusiastic software engineer with a diverse skill set covering a spectrum of cutting-edge technologies.</p>
+<p align="center">👋 Greetings! I'm glad you visited my GitHub profile! I'm Minela Ganović, a software engineer who knows several skills that cover the spectrum of cutting-edge technologies.</p>
 
 <br>
 
