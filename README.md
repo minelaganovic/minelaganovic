@@ -1,4 +1,4 @@
-<h2 align="center">👋 Greetings! Delighted to have you visit my GitHub profile! I'm Minela Ganovic, an enthusiastic software engineer with a diverse skill set covering a spectrum of cutting-edge technologies.</h2>
+<p align="center">👋 Greetings! Delighted to have you visit my GitHub profile! I'm Minela Ganovic, an enthusiastic software engineer with a diverse skill set covering a spectrum of cutting-edge technologies.</p>
 
 <br>
 
@@ -82,7 +82,7 @@
 </table>
 
 <h2>Connect with me:</h2>
-<h2>💼 I'm actively seeking opportunities to collaborate on impactful projects. Let's connect and create something extraordinary together!</h2>
+<p>💼 I'm actively seeking opportunities to collaborate on impactful projects. Let's connect and create something extraordinary together!</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/minela-ganovic-1a2b19209"><img src="https://img.shields.io/badge/linkedin-507d2a.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
    <a href="mailto:minelag556@gmail.com?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-507d2a.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
