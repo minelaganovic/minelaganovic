@@ -27,6 +27,7 @@
             <li>Node.js</li>
             <li>Spring</li>
             <li>Express</li>
+          <li>.NET Core</li>
         </ul>
     </td>
   </tr>
@@ -36,7 +37,7 @@
         <ul>
             <li>WPF</li>
             <li>WinForms</li>
-            <li>.NET Core</li>
+            <li>C#</li>
         </ul>
     </td>
     <td valign="top">
