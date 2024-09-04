@@ -53,6 +53,7 @@
             <li>Java</li>
             <li>JavaScript</li>
             <li>PHP</li>
+          <li>Python</li>
         </ul>
     </td>
   </tr>
