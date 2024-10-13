@@ -59,6 +59,12 @@
   </tr>
 </table>
 
+<h2>My Research:</h2>
+<p>I'm also engaged in research focused on the application of generative artificial intelligence in web design. You can check out my published paper below:</p>
+<p>
+<a href="https://portal.sinteza.singidunum.ac.rs/Media/files/2024/392-397.pdf"><img src="https://img.shields.io/badge/My%20Research%20Paper-507d2a.svg?style=for-the-badge&logo=read-the-docs&logoColor=ffffff"/></a>
+</p>
+
 <h2>Connect with me:</h2>
 <p>💼 I'm actively seeking opportunities to collaborate on impactful projects. Let's connect and create something extraordinary together!</p>
 <p align="center">
